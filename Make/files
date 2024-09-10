@@ -1,0 +1,3 @@
+TotalTemperature.C
+
+LIB = $(FOAM_USER_LIBBIN)/liboxyFunctionObject
